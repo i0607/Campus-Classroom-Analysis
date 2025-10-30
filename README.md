@@ -152,7 +152,7 @@ Applies consistent formatting to:
 - Floor-specific analysis
 - Distribution analysis for categorical features
 
-## 📊 Output Files
+## Output Files
 
 | File | Description |
 |------|-------------|
